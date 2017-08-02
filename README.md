@@ -19,7 +19,6 @@ The first method transforms the values according to the Fourier transform and th
 
 4)Show detected musical notes
 Divide the signal into segments and read them one at a time using a window. The segment expression is x(i : i+SizeWindow-1).
+Identify the music note and print it on the console
 
-
-5
-)Graph with music notes detected
+5)Graph with music notes detected
