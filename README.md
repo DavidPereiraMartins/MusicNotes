@@ -1,10 +1,12 @@
 # MusicNotes
 Identify music notes using Fourier Transform in Matlab
+
 Still, can not accept large files yet.
 NOTE:You may need to change the values of SizeWindow and SizeOverlap.
 
 It's a program that identifies the musical notes of a small sound file.
 Description of steps
+
 1)Read the sound file
 Ask if you want to hear an example first.
 Reads the sound file using the audioread method.
